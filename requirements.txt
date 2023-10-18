@@ -1,0 +1,24 @@
+# streamlit==1.27.1
+# python-dotenv==1.0.0
+# #langchain== 0.0.306
+# langchain==0.0.274
+# llama-cpp-python==0.2.11
+# unstructured
+# ctransformers
+# pypdf
+# transformers[torch]
+
+# #Embedding
+llama_index
+# hnswlib 
+# sentence-transformers
+
+
+# # GPT
+chromadb==0.4.12
+chroma-migrate
+gpt4all==1.0.8
+sentence_transformers==2.2.2
+langchain==0.0.274
+# #gpt4all==0.3.0
+pypdf
